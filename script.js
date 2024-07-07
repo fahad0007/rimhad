@@ -1,5 +1,5 @@
 let isFirefox = typeof InstallTrigger !== 'undefined';
-const words = "Rimsha ❤️Fahad";
+const words = "❤️Rimsha❤️Fahad❤️";
 
 let ANGLE = 360;
 const ANIMATION_DURATION = 4000;
